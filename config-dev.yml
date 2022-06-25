@@ -1,2 +1,2 @@
-config：
-  info: "this is dev env, version=1"
+config-info: 
+  "this is dev env, version=1"
